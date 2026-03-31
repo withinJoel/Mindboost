@@ -1,5 +1,5 @@
 # Mindboost  
-* Your friendly neighborhood **dumb AI** for absolute beginners 🤖💀  
+* Your friendly neighborhood **AI** for absolute beginners 🤖💀  
 * Made with 💖 by **Joel Jolly** (who definitely over-engineered this for no reason).
 
 ## 🚀 About
